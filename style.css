@@ -15,8 +15,9 @@
         ul {color: rgb(0, 54, 30);
            }
         table {color: rgb(0, 54, 30);
-                 margin-left:auto; 
-                 margin-right:auto;
+                margin-left:auto; 
+                margin-right:auto;
+               display: block;
               }
             div {text-align: center;
                 }
