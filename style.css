@@ -52,3 +52,8 @@ p {
     margin-left:15px;
     width:1200px;
 }
+ing {
+    border: 5px;
+    border-style:dashed;
+    border-color: rgb(69, 34, 17);
+}
