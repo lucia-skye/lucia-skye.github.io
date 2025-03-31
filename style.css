@@ -1,13 +1,11 @@
-<style>
  body {
- background-color: rgb(143, 84, 18);
+  background-color: rgb(143, 84, 18);
  }
 #gcgcpic {
- float:left;
- margin-right: 10px
+  float:left;
+  margin-right: 10px
 }
  div {
    margin: 15px;
-   border: 20px black;
+   border: 20px solid black;
  }
-</style>
