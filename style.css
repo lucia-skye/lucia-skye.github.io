@@ -1,9 +1,9 @@
 <style>
  body {
- background-color: rgb(143,84,18);
+   background-color: rgb(143, 84, 18);
  }
  div {
- margin:15px
- border: 20px
+   margin: 15px;
+   border: 20px black;
  }
 </style>
