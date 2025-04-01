@@ -31,9 +31,9 @@ body {
 }
 #home {
     list-style: none;
-    position: absolute;
+    position: relative;
     top:75px;
-    left:900px;
+    right:200px;
 }
 li {
     display:inline-block;
