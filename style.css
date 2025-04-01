@@ -17,6 +17,9 @@ h1 {
     margin-right: 10px;
     margin-left:15px;
     margin-bottom:20px;
+    border:10px;
+    border-style:ridge;
+    border-color: rgb(69, 34, 17);
 }
 body {
     margin: 15px;
