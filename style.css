@@ -30,9 +30,9 @@ body {
 }
 #home {
     list-style: none;
-    position: relative;
+    position: absolute;
     top:75px;
-    right:200px;
+    left:500px;
 }
 li {
     display:inline-block;
