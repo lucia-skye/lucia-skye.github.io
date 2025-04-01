@@ -61,3 +61,8 @@ table {
 #ppl {
     list-style:square;
 }
+div#pics {
+    overflow: auto;
+    white-space: nowrap;
+    padding: 10px;
+}
