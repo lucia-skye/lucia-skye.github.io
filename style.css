@@ -6,7 +6,6 @@ body {
     font-size:18px;
     margin-left:15px;
     margin-right:10px;
-    font-family: Arial, sans-serif;
 }
 h1 {
     color: rgb(69, 34, 17);
@@ -52,6 +51,7 @@ h2 {
 }
 h3 {
     margin-left:15px;
+    font-family: Arial, sans-serif;
 }
 p {
     margin-left:15px;
