@@ -69,20 +69,27 @@ div#pics {
     white-space: nowrap;
     padding: 10px;
 }
-table {
+ table {
     border: 5px;
     border-style: dashed;
     border-color: rgb(69, 34, 17);
             }
 th, td {
     padding:5px;
-    padding-right:40px;
-    padding-left:40px;
+    padding-right:60px;
+    padding-left:60px;
+            }
+#home {
+    position:absolute;
+    top:75px;
+    left:500px;
+            }
             }
 #coffee {
     position:absolute;
-    top:150px;
+    top:200px;
     right:150px;
-    border:3px;
+    border:5px;
+    border-style:ridge
     border-color: rgb(69,34,17);
             }
