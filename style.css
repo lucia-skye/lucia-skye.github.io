@@ -58,3 +58,6 @@ ing {
     border-style:dashed;
     border-color: rgb(69, 34, 17);
 }
+#ppl {
+    list-style:square;
+}
